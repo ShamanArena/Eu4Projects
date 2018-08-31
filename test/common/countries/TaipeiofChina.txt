@@ -1,0 +1,21 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 53  39  207 }
+
+revolutionary_colors = { 5  8  1 } #Inspired by the Five Color Flag
+
+historical_score = 0
+
+historical_idea_groups = {
+	exploration_ideas
+	quality_ideas
+	humanist_ideas 
+	trade_ideas
+	influence_ideas
+	defensive_ideas
+        spy_ideas
+	administrative_ideas
+
+}

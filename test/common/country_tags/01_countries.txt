@@ -1,0 +1,4 @@
+# Study: add Taipei,China
+
+#Asia Area
+TPC = "countries/TaipeiofChina.txt"
